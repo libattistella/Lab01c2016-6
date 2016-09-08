@@ -2,4 +2,11 @@
 
 
 
-<resources></resources>
+<resources>
+    <string name="tasaMinimaMenor30">25</string>
+    <string name="tasaMinimaMayor30">27.5</string>
+    <string name="tasaMediaMenor30">30</string>
+    <string name="tasaMediaMayor30">32.3</string>
+    <string name="tasaMaximaMenor30">35</string>
+    <string name="tasaMaximaMayor30">38.5</string>
+</resources>
